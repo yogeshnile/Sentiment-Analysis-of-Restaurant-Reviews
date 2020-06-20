@@ -1,6 +1,23 @@
 # Sentiment-Analysis-of-Restaurant-Reviews
 In this repo i have created a Sentiment Analysis of Restaurant Reviews project in machine learning using NLP, and i am using [nltk](https://pypi.org/project/nltk/) Library for NLP.
 
+# Dependentias :warning:
+```python
+import numpy as np
+import pandas as pd
+
+import nltk
+import re
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+from nltk.stem.porter import PorterStemmer
+
+import sklearn
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import accuracy_score
+```
 
 
 ## Contributing :man_technologist:
