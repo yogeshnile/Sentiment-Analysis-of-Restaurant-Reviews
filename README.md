@@ -1,5 +1,5 @@
 # Sentiment-Analysis-of-Restaurant-Reviews
-In this repo i have created a Sentiment Analysis of Restaurant Reviews project in machine learning using NLP. 
+In this repo i have created a Sentiment Analysis of Restaurant Reviews project in machine learning using NLP, and i am using [nltk](https://pypi.org/project/nltk/) Library for NLP.
 
 
 
