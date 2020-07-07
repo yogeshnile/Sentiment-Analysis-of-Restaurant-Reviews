@@ -3,6 +3,9 @@ In this repo i have created a Sentiment Analysis of Restaurant Reviews project i
 
 [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
+# Motivation :monocle_face:
+  - Nowadays we all eat food in most of the restaurants, so it is necessary that we find the best restaurants, or the restaurant owner has to analysis the reviews of his customers that they are positive and negative. To know this, I have developed this project
+
 # Technology used in Project :hotsprings:
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">  <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/python_nltk.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/sklearn.png" width="200">
 
